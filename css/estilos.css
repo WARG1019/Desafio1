@@ -55,10 +55,11 @@
 }
 
 .backgroundsection{
-	width:1340px;
-	margin:auto;
 	background:#efefef;
 }
+
+
+
 
 .buscar{
 
@@ -74,12 +75,12 @@ input{
 
 .contenedor{
 
-width:500px;
-height:150px;
+width:750px;
+height:170px;
 background-color:#dbdbdb;
 padding:20px;
-margin-left:20px;
-margin-top:350px;
+margin-left:40px;
+margin-top:330px;
 position:absolute;
 opacity:0.6;
 }
@@ -87,7 +88,7 @@ opacity:0.6;
 .estilop{
 
 	margin-left:30px;
-	margin-top: -30px;
+	margin-top: -45px;
 }
 
 .portada{
@@ -98,6 +99,20 @@ opacity:0.6;
 
 .nuevoestilop{
 
-	margin-left:280px;
+	margin-left:240px;
 	margin-top:-40px;
 }
+
+.estilop2{
+
+	margin-left:30px;
+	margin-top: -30px;
+}
+
+.nuevoestilop2{
+
+	margin-left:210px;
+	margin-top:-40px;
+}
+
+
